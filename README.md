@@ -1,2 +1,2 @@
 # hello-word
-用于联系github流
+用于练习github流
